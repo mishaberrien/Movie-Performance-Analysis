@@ -8,7 +8,7 @@ Microsoft Meddles in Movie Streaming
  ### Goals
 - [x] Use data from at least two sources
     - [ ] Establish naming conventions for variables and datasets
-    - [ ] Clean dataset & record parameters used to clean the data
+    - [x] Clean dataset & record parameters used to clean the data
         You may use Pandas or Python functions
         Document every step of the cleaning process
     - [x] Create at least two new features that were not present in the original data sets
@@ -16,10 +16,10 @@ Microsoft Meddles in Movie Streaming
 - [ ] Use Pandas and Numpy to generate useful metrics for comparing films
 
 Posted to git repository:
-   - [ ] At least 10 commits
-   - [ ] Must include short, descriptive commit messages
+   - [x] At least 10 commits
+   - [x] Must include short, descriptive commit messages
    - [x] Cliff should commit at least once
-   - [ ] Misha should commit at least once
+   - [x] Misha should commit at least once
    A Jupyter notebook targeted to a technical audience that contains
    - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
    - [ ] Code should follow Pep8 standards
