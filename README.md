@@ -1,7 +1,7 @@
 ## Movie Performance Analysis
 In this project, we analyze movie data from the Internet Movie Database (IMDB) and the Movie Database (MD).
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ### Partners
 
