@@ -1,22 +1,56 @@
-## TEST
-# Movie Performance Analysis
-## Microsoft Moves into Movie Streaming
+## Movie Performance Analysis
+In this project, we analyze movie data from the Internet Movie Database (IMDB) and the Movie Database (MD).
 
+#### -- Project Status: [Completed]
 
-### Problem Statement
+### Partners
 
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry. Your team has free range
+|Name     |  Github Page   | Personal website |
+|---------|-----------------|------------------|
+|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)        |
+|Cliff Bridges | [CliffordBridges]https://github.com/CliffordBridges) |     -   |
 
-Therefore your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+* Cliff Bridges
+* [Github Page](https://github.com/CliffordBridges)
 
-### Project Members: Misha Berrin and Clifford Bridges
+* Misha Berrien
+* [Github Page](https://github.com/mishaberrien)
+* [Personal Website](https://mishaberrien.com/)
 
-### In This Repo
+### Methods Used
+* Summary statistics
+* Data Visualization
 
-The **Data** folder has all the data sets we used and some we didn't.
-All of these sets were downloaded from their respective host sites on June 14, 2019.
+### Technologies
+* Python
+* Pandas
+* Jupyter Notebooks
 
-Cleaning and analysis was conducted in the jupyter notebook, **Microsoft-streaming-analysis-technical-2.ipynb**.
-This is a technical (but hopefully not terse) notebook in which the reader can follow along by re-running each cell.
+## Project Description
 
-The results of our analysis were presented as a powerpoint, which is now saved as a pdf under **"TFS Project 1_ Microsoft Movie Streaming Analysis.pdf"**
+Overview:
+This project focused on coming up with recommendations for a technology company just entering the online-streaming business. In this project, we explored three key questions, 1) what genre of films make the most money, 2) which actors/ directors are most successful and 3) how much should a company look to spend in advertising in order to maximize the profit from their investment.
+
+Challenges:
+The data that we analyzed did not specify what movies were released exclusively online. We were able to find a proxy for that information, but the lack of clarity on this point slowed our analysis.
+
+## Getting Started
+
+1. Clone this repo.
+2. Raw Data can be found on the web. Below are the raw data sources:
+
+* Internet Movie Database, title.basics.tsv.gz, (2019), distributed by IMDB,
+https://datasets.imdbws.com/title.basics.tsv.gz
+* Internet Movie Database, name.basics.tsv.gz, (2019), distributed by
+IMDB, https://datasets.imdbws.com/name.basics.tsv.gz
+* Internet Movie Database, title.ratings.tsv.gz, (2019), distributed by
+IMDB, https://datasets.imdbws.com/title.ratings.tsv.gz
+* The Movie Database, tn.movie_budgets.csv.gz, (2019), distributed by
+The Movie DB,
+https://developers.themoviedb.org/3/discover/movie-discover
+* Internet Movie Database, imdb.title.principals.csv.gz (2019), distributed
+by IMDB, https://datasets.imdbws.com/title.ratings.tsv.gz
+
+3. Data processing/transformation scripts are being kept [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/src)
+4. You can re-run the entire project from the results notebook [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/results)
+5. The results of our analysis were presented as a powerpoint, which is now saved as a pdf under **"TFS Project 1_ Microsoft Movie Streaming Analysis.pdf"**
