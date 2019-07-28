@@ -3,7 +3,7 @@ In this project, we analyze movie data from the Internet Movie Database (IMDB) a
 
 #### Project Status: [Completed]
 
-### Partners
+### Collaborators
 
 |Name     |  Github Page   | Personal website |
 |---------|-----------------|------------------|
