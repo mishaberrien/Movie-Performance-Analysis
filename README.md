@@ -38,7 +38,7 @@ The data that we analyzed did not specify what movies were released exclusively 
 > * The Movie Database, [tn.movie_budgets.csv.gz](https://developers.themoviedb.org/3/discover/movie-discover), (2019), distributed by The Movie DB.
 > * Internet Movie Database, [imdb.title.principals.csv.gz](https://datasets.imdbws.com/title.ratings.tsv.gz) (2019), distributed
 by IMDB.
-
 3. Data processing/transformation scripts are being kept [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/src)
-4. You can re-run the entire project from the results notebook [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/results)
+4. You can re-run the entire project from the results notebook [here](https://github.com/CliffordBridges/Movie-Performance-Analysis/tree/master/notebooks/04_reports)
 5. The results of our analysis were presented as a powerpoint, which is now saved as a pdf under **"TFS Project 1_ Microsoft Movie Streaming Analysis.pdf"**
+6. Final Notebook [here](https://mishaberrien.com/movie-performance-analysis/)
